@@ -2,8 +2,10 @@
   "name": "angular-plupload",
   "version": "0.1.6",
   "dependencies": {
-    "angular": ">=1.2.0 <1.6"
+    "angular": ">=1.2.0 <1.6",
+    "plupload": "^2.3.6"
   },
+  "main" : "index.js",
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-ngmin": "~0.0.3",

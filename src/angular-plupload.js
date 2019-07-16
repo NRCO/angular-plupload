@@ -3,6 +3,8 @@
  * @author Chungsub Kim <subicura@subicura.com>
  */
 
+import plupload from "plupload";
+
 /* global plupload */
 (function () {
   'use strict';
